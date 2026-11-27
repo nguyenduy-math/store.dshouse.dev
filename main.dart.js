@@ -42827,7 +42827,7 @@ cuQ(a){return A.ciG(a.ag($.nI(),t.aq))},
 cx3(a){return new A.aig(a.ag($.nI(),t.aq))},
 cvE(a){var s=A.bJs()
 if(s==null)s=new A.wL(A.a([],t.Y))
-return new A.abq(s,"https://livestream-backend-bnfwijpwsq-as.a.run.app",a.ag($.nI(),t.aq).gkh())},
+return new A.abq(s,"https://livestream-backend-267508207671.asia-southeast1.run.app",a.ag($.nI(),t.aq).gkh())},
 cvD(a){return new A.aie(a.ag($.nI(),t.aq))},
 cvC(a){return a.ag($.c95(),t.Wf).bcI()},
 cxA(a){return new A.agD(a.ag($.nI(),t.aq))},
